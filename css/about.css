@@ -1,0 +1,47 @@
+.h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-top: 50px;
+}
+
+*p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner-img{
+    display: block;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo-img{
+    float: left;
+    margin-right: 25px;
+}
+
+.self-content{
+    margin-top: 50px;
+    margin-left: 25px;
+}
+.self-content, p{
+    font-weight: bold;
+}
+.self-content h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    padding-top: 10px;
+    font-size: 28px;
+}
+
+.navbar{
+    border: 2px solid black;
+    font-weight: bold;
+    margin-top: 50px;
+    text-decoration: none;
+}
+
+.navbar, li{
+    padding-right: 100px;
+    padding-left: 10px;
+}

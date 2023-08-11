@@ -64,12 +64,14 @@
     text-align: center;
 
   }
+
   .social-icons {
     font-size: 24px;
     padding-bottom : 20px;
     padding-top: 50px;
     border-top: 2px solid black;
   }
+
   .social-icons a {
     color: black;
     text-decoration: none;
