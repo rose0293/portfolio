@@ -42,4 +42,19 @@
 
 .navbar, li{
     padding-right: 100px;
+    padding-left: 10px;
+}
+
+.col-md-3{
+    padding: 50px;
+}
+
+.gallery-heading{
+    padding-top: 160px;
+    padding-left: 40px;
+}
+
+.gallery-img {
+    max-width: 100%;
+    height: auto;
 }
