@@ -13,3 +13,6 @@ Lastly, I learned the significance of adaptability and problem-solving. Not ever
 
 In conclusion, my web portfolio development process was a blend of careful planning, creative design, and meticulous coding. Overcoming challenges along the way taught me resilience and the value of continuous learning. This experience has not only showcased my skills but also demonstrated my commitment to delivering high-quality digital experiences." -->
 
+
+<!-- Icons Library:     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+Font:     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap" rel="stylesheet"> -->
